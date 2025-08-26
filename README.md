@@ -1,36 +1,44 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/116637532?v=4" alt="Foto de perfil" height="140" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/116637532?v=4" alt="Foto de perfil" height="160" style="border-radius: 50%;" />
 </div>
 
-<h1 align="center">Marcos Matheus</h1>
+<h1 align="center">👨‍💻 Marcos Matheus</h1>
+<h3 align="center">Desenvolvedor Full Stack</h3>
+
 <p align="center">
-  Desenvolvedor Full Stack | Vue.js | Vuetify 3 | React | PHP | Laravel | JavaScript | Docker
+  Vue.js • Vuetify 3 • React • PHP • Laravel • JavaScript • Docker
 </p>
 
 ---
 
-### 💻 Tecnologias & Ferramentas
+## 🚀 Sobre mim
+Sou um desenvolvedor **Full Stack** apaixonado por tecnologia, com experiência no desenvolvimento de aplicações modernas, escaláveis e centradas na experiência do usuário.  
+Atualmente, atuo em projetos que envolvem **Vue.js, Laravel, React e Docker**, sempre buscando boas práticas de código e desempenho.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="80" alt="PHP" />
-  <img src="https://avatars.githubusercontent.com/u/958072?s=280&v=4" height="40" width="80" alt="Laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="80" alt="Vue.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="80" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="80" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="80" alt="Docker" />
-  <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" height="40" width="80" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" />
+  <img src="https://avatars.githubusercontent.com/u/958072?s=280&v=4" height="50" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="Vue.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
+  <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" height="50" alt="GitHub" />
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1Matheusc1&show_icons=true&theme=merko&locale=pt-br" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1Matheusc1&layout=compact&theme=dracula&locale=pt-br" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1Matheusc1&show_icons=true&theme=tokyonight&locale=pt-br" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1Matheusc1&layout=compact&theme=tokyonight&locale=pt-br" height="170" alt="Linguagens mais usadas" />
 </div>
 
 ---
 
-### 🚀 Projetos em Destaque
+## 🌟 Projetos em Destaque
 <div align="center">
   <a href="https://github.com/1Matheusc1/Crud">
     <img src="https://img.shields.io/badge/Crud-Vue3_Vuetify-blue?style=for-the-badge" alt="Crud" />
@@ -54,22 +62,23 @@
 
 ---
 
-### 📫 Contato
+## 📫 Vamos conversar?
 <div align="center">
   <a href="http://www.linkedin.com/in/marcos-matheus-34a257304" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/1Matheusc1" target="_blank">
-    <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" width="80" height="40" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/https.theus___" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="40" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
 ---
 
 <p align="center">
-🌟 Sempre em busca de novos desafios, aprendizado contínuo e criação de soluções escaláveis.<br>
-💼 Aberto a vagas, freelances e projetos colaborativos.
+🌱 Sempre em busca de **novos desafios** e aprendizado contínuo.<br>  
+💡 Focado em criar soluções digitais **escaláveis, performáticas e intuitivas**.<br>  
+📌 Aberto a **vagas, freelances e colaborações em projetos**.
 </p>
