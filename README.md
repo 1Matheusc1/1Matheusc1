@@ -6,58 +6,50 @@
 <h3 align="center">Desenvolvedor Full Stack</h3>
 
 <p align="center">
-  Vue.js • Vuetify 3 • React • PHP • Laravel • JavaScript • Docker
+  🚀 Vue.js • Vuetify 3 • React • PHP • Laravel • JavaScript • Docker  
 </p>
 
 ---
 
-## 🚀 Sobre mim
-Sou um desenvolvedor **Full Stack** apaixonado por tecnologia, com experiência no desenvolvimento de aplicações modernas, escaláveis e centradas na experiência do usuário.  
-Atualmente, atuo em projetos que envolvem **Vue.js, Laravel, React e Docker**, sempre buscando boas práticas de código e desempenho.
+## 👋 Sobre mim
+Sou um desenvolvedor **Full Stack** apaixonado por tecnologia e inovação, com experiência em criar soluções digitais modernas, escaláveis e centradas no usuário.  
+Tenho atuado em projetos utilizando **Vue.js, React, Laravel e Docker**, sempre buscando aplicar **boas práticas de código, performance e usabilidade**.
+
+💡 Minha missão é transformar ideias em **aplicações funcionais, intuitivas e de impacto**.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-<div align="center">
+<div align="center" style="display: flex; gap: 20px; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" />
   <img src="https://avatars.githubusercontent.com/u/958072?s=280&v=4" height="50" alt="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="Vue.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
-  <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" height="50" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1Matheusc1&show_icons=true&theme=tokyonight&locale=pt-br" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1Matheusc1&layout=compact&theme=tokyonight&locale=pt-br" height="170" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1Matheusc1&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1Matheusc1&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" height="170" />
 </div>
 
 ---
 
 ## 🌟 Projetos em Destaque
 <div align="center">
-  <a href="https://github.com/1Matheusc1/Crud">
-    <img src="https://img.shields.io/badge/Crud-Vue3_Vuetify-blue?style=for-the-badge" alt="Crud" />
-  </a>
-  <a href="https://github.com/1Matheusc1/vue-login-vuetify">
-    <img src="https://img.shields.io/badge/VueLogin-Vuetify3-green?style=for-the-badge" alt="Vue Login" />
-  </a>
-  <a href="https://github.com/1Matheusc1/matriculas-crud-vue-vuetify">
-    <img src="https://img.shields.io/badge/Matriculas-CRUD-purple?style=for-the-badge" alt="Matriculas CRUD" />
-  </a>
-  <a href="https://github.com/1Matheusc1/_analytics-dashboard">
-    <img src="https://img.shields.io/badge/Analytics-Dashboard-orange?style=for-the-badge" alt="Analytics Dashboard" />
-  </a>
-  <a href="https://github.com/1Matheusc1/api-matricula-alunos">
-    <img src="https://img.shields.io/badge/API-MatriculaAlunos-red?style=for-the-badge" alt="API Matrícula Alunos" />
-  </a>
-  <a href="https://github.com/1Matheusc1/Valida-o-Forms">
-    <img src="https://img.shields.io/badge/Validação-Forms-blueviolet?style=for-the-badge" alt="Validação Forms" />
-  </a>
+
+[![Crud](https://img.shields.io/badge/Crud-Vue3_Vuetify-blue?style=for-the-badge)](https://github.com/1Matheusc1/Crud)
+[![Vue Login](https://img.shields.io/badge/VueLogin-Vuetify3-green?style=for-the-badge)](https://github.com/1Matheusc1/vue-login-vuetify)
+[![Matrículas CRUD](https://img.shields.io/badge/Matriculas-CRUD-purple?style=for-the-badge)](https://github.com/1Matheusc1/matriculas-crud-vue-vuetify)
+[![Analytics Dashboard](https://img.shields.io/badge/Analytics-Dashboard-orange?style=for-the-badge)](https://github.com/1Matheusc1/_analytics-dashboard)
+[![API Matrícula Alunos](https://img.shields.io/badge/API-MatriculaAlunos-red?style=for-the-badge)](https://github.com/1Matheusc1/api-matricula-alunos)
+[![Validação Forms](https://img.shields.io/badge/Validação-Forms-blueviolet?style=for-the-badge)](https://github.com/1Matheusc1/Valida-o-Forms)
+
 </div>
 
 ---
@@ -79,6 +71,6 @@ Atualmente, atuo em projetos que envolvem **Vue.js, Laravel, React e Docker**, s
 
 <p align="center">
 🌱 Sempre em busca de **novos desafios** e aprendizado contínuo.<br>  
-💡 Focado em criar soluções digitais **escaláveis, performáticas e intuitivas**.<br>  
+⚡ Entusiasta de **tecnologias modernas e código limpo**.<br>  
 📌 Aberto a **vagas, freelances e colaborações em projetos**.
 </p>
