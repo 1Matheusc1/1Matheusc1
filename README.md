@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=👨‍💻+Marcos+Matheus&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35" alt="banner" />
 </div>
 
-<!-- Texto digitando -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Vue.js+%7C+Vuetify+3+%7C+React;PHP+%7C+Laravel+%7C+Docker;Criando+soluções+modernas+e+escaláveis+🚀" alt="Typing SVG" />
-</div>
-
 <!-- Foto com fundo branco -->
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/116637532?v=4" alt="Foto de perfil" height="180" style="border-radius: 50%; background:white; padding:8px; box-shadow: 0 0 15px rgba(0,0,0,0.2);" />
