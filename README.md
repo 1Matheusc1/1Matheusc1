@@ -5,39 +5,30 @@
 
 <!-- Foto Perfil -->
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/116637532?v=4" alt="Foto de perfil" height="180" style="border-radius: 50%; background:white; padding:8px; box-shadow: 0 0 15px rgba(0,0,0,0.2);" />
+  <img src="https://avatars.githubusercontent.com/u/116637532?v=4" alt="Foto de perfil" height="160" style="border-radius: 50%; background:white; padding:6px; box-shadow: 0 0 10px rgba(0,0,0,0.15);" />
 </div>
 
 ---
 
-# 👋 Sobre mim  
+# 👋 Quem sou eu  
 
-Sou **Marcos Matheus**, **Desenvolvedor Full Stack** com experiência em **Vue.js, Vuetify 3, React, PHP, Laravel, JavaScript e Docker**.  
+Sou **Marcos Matheus**, Desenvolvedor **Full Stack** com experiência em **Vue.js, Vuetify 3, React, PHP, Laravel, JavaScript e Docker**.  
 
-🚀 Minha missão é **criar soluções escaláveis e de impacto**, combinando **UX/UI modernas**, **código limpo** e **alta performance**.  
-💡 Filosofia: *"Tecnologia não é apenas código, é transformação."*  
+🚀 Meu foco é **entregar soluções digitais modernas, rápidas e escaláveis**, sempre priorizando **UX/UI, performance e boas práticas**.  
+💡 *“Código limpo + visão estratégica = impacto real.”*  
 
 ---
 
-# 🛠️ Tech Stack  
+# 🛠️ Stack Principal  
 
 <div align="center">
 
 | Frontend | Backend | DevOps | Ferramentas |
 |----------|----------|--------|-------------|
 | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white) |
-| ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) |  | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |  | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) |  | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+| ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |  | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
-</div>
-
----
-
-# 📊 Estatísticas GitHub  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1Matheusc1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1Matheusc1&theme=tokyonight&hide_border=true&locale=pt-br" height="170" />
 </div>  
 
 ---
@@ -54,11 +45,20 @@ Sou **Marcos Matheus**, **Desenvolvedor Full Stack** com experiência em **Vue.j
 [![API Matrícula Alunos](https://img.shields.io/badge/API-MatriculaAlunos-red?style=for-the-badge&logo=laravel)](https://github.com/1Matheusc1/api-matricula-alunos)
 [![Validação Forms](https://img.shields.io/badge/Validação-Forms-blueviolet?style=for-the-badge&logo=javascript)](https://github.com/1Matheusc1/Valida-o-Forms)
 
-</div>
+</div>  
 
 ---
 
-# 📫 Contato  
+# 📊 Estatísticas  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1Matheusc1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1Matheusc1&theme=tokyonight&hide_border=true&locale=pt-br" height="170" />
+</div>  
+
+---
+
+# 📫 Conecte-se comigo  
 
 <div align="center">
   <a href="http://www.linkedin.com/in/marcos-matheus-34a257304" target="_blank">
