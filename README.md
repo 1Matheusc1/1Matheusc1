@@ -62,12 +62,14 @@ Sou **Marcos Matheus**, Desenvolvedor **Full Stack** com experiência em **Vue.j
 
 ---
 
-## 📈 Métricas & Conquistas
+# 📊 Métricas & Conquistas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1Matheusc1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1Matheusc1&theme=tokyonight&hide_border=true&locale=pt-br" height="170" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheu-sCosta1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheu-sCosta1&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheu-sCosta1&theme=tokyonight&hide_border=true&locale=pt-br" height="170" />
+</p>
+
 
 ---
 
