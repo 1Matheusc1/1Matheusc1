@@ -14,7 +14,7 @@
 
 Sou **Marcos Matheus**, Desenvolvedor **Full Stack** com experiência em **Vue.js, Vuetify 3, React, PHP, Laravel, JavaScript e Docker**.  
 
-🚀 Foco em **entregar soluções digitais modernas, rápidas e escaláveis**, priorizando **UX/UI, performance e boas práticas**.  
+🚀 Foco em **entregar soluções digitais modernas, rápidas e escaláveis**, sempre priorizando **UX/UI, performance e boas práticas**.  
 💡 *“Código limpo + visão estratégica = impacto real.”*
 
 ---
@@ -39,27 +39,22 @@ Sou **Marcos Matheus**, Desenvolvedor **Full Stack** com experiência em **Vue.j
 # 🌟 Projetos em Destaque
 
 <p align="center">
-  [![Crud](https://img.shields.io/badge/Crud-Vue3_Vuetify-blue?style=for-the-badge&logo=vue.js)](https://github.com/1Matheusc1/Crud)
-  [![Vue Login](https://img.shields.io/badge/VueLogin-Vuetify3-green?style=for-the-badge&logo=vuetify)](https://github.com/1Matheusc1/vue-login-vuetify)
-  [![Matrículas CRUD](https://img.shields.io/badge/Matrículas-CRUD-purple?style=for-the-badge&logo=vue.js)](https://github.com/1Matheusc1/matriculas-crud-vue-vuetify)
-  [![Analytics Dashboard](https://img.shields.io/badge/Analytics-Dashboard-orange?style=for-the-badge&logo=react)](https://github.com/1Matheusc1/_analytics-dashboard)
-  [![API Matrícula Alunos](https://img.shields.io/badge/API-MatriculaAlunos-red?style=for-the-badge&logo=laravel)](https://github.com/1Matheusc1/api-matricula-alunos)
-  [![Validação Forms](https://img.shields.io/badge/Validação-Forms-blueviolet?style=for-the-badge&logo=javascript)](https://github.com/1Matheusc1/Valida-o-Forms)
+  [![Crud](https://img.shields.io/badge/Crud-Vue3_Vuetify-blue?style=for-the-badge&logo=vue.js)](https://github.com/Matheu-sCosta1/Crud)
+  [![Vue Login](https://img.shields.io/badge/VueLogin-Vuetify3-green?style=for-the-badge&logo=vuetify)](https://github.com/Matheu-sCosta1/vue-login-vuetify)
+  [![Matrículas CRUD](https://img.shields.io/badge/Matrículas-CRUD-purple?style=for-the-badge&logo=vue.js)](https://github.com/Matheu-sCosta1/matriculas-crud-vue-vuetify)
+  [![EduNova](https://img.shields.io/badge/EduNova-Projeto-orange?style=for-the-badge)](https://github.com/Matheu-sCosta1/EduNova)
+  [![Analytics Dashboard](https://img.shields.io/badge/Analytics-Dashboard-orange?style=for-the-badge&logo=react)](https://github.com/Matheu-sCosta1/_analytics-dashboard)
+  [![API Matrícula Alunos](https://img.shields.io/badge/API-MatriculaAlunos-red?style=for-the-badge&logo=laravel)](https://github.com/Matheu-sCosta1/api-matricula-alunos)
 </p>
 
 ---
 
-# 📈 Métricas & Conquistas
+# 📊 Métricas & Conquistas
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=1Matheusc1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" width="320" />
-
-  <!-- Top linguagens -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Matheusc1&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" width="320" />
-
-  <!-- Commit Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1Matheusc1&theme=tokyonight&hide_border=true&locale=pt-br" width="320" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheu-sCosta1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheu-sCosta1&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheu-sCosta1&theme=tokyonight&hide_border=true&locale=pt-br" height="170" />
 </p>
 
 ---
@@ -70,7 +65,7 @@ Sou **Marcos Matheus**, Desenvolvedor **Full Stack** com experiência em **Vue.j
   <a href="https://www.linkedin.com/in/marcos-matheus-34a257304" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/1Matheusc1" target="_blank">
+  <a href="https://github.com/Matheu-sCosta1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/https.theus___" target="_blank">
