@@ -53,15 +53,14 @@ Sou **Marcos Matheus**, Desenvolvedor **Full Stack** com experiência em **Vue.j
 # 📈 Métricas & Conquistas
 
 <div align="center" style="margin-top: 10px;">
-<!-- Principais linguagens -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Matheusc1&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" height="150" />
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=1Matheusc1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" height="160" />
 
-<!-- Badges de habilidades adicionais -->
-<div style="margin-top: 10px;">
-  ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)
-</div>
+<!-- Top linguagens -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Matheusc1&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" height="160" />
+
+<!-- Commit Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=1Matheusc1&theme=tokyonight&hide_border=true&locale=pt-br" height="160" />
 </div>
 
 ---
