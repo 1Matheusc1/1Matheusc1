@@ -60,11 +60,19 @@ Sou **Desenvolvedor Full Stack** com experiência em **Vue.js, Vuetify 3, React,
 
 ---
 
-# 📊 Estatísticas
+# 📈 Métricas & Conquistas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1Matheusc1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1Matheusc1&theme=tokyonight&hide_border=true&locale=pt-br" height="170" />
+
+<!-- Estatísticas gerais do GitHub -->
+<img src="https://github-readme-stats.vercel.app/api?username=1Matheusc1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" height="170" />
+
+<!-- Linguagens mais usadas -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Matheusc1&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" height="170" />
+
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=1Matheusc1&theme=tokyonight&hide_border=true&locale=pt-br" height="170" />
+
 </div>
 
 ---
